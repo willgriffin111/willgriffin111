@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at my [portfolio website](https://willgriffin111.github.io/Portfolio-website/)
 
-- 📝 I sometimes write articles on [Medium](https://medium.com/@willcfgriffin)
+<!-- - 📝 I sometimes write articles on [Medium](https://medium.com/@willcfgriffin) -->
 
 - 📫 How to reach me **willcfgriffin@gmail.com** 
 
