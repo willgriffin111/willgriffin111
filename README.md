@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Will Griffin</h1>
 <h3 align="center">Computer Science graduate with a passion for embedded systems, digital electronics, and full-stack development.</h3>
 
-- 🔭 I’m currently working on [Automotive Monitoring System](https://github.com/willgriffin111/Vehicle-Data-Logger-And-Analysis)
+<!-- - 🔭 I’m currently working on [Automotive Monitoring System](https://github.com/willgriffin111/Vehicle-Data-Logger-And-Analysis) -->
 
 - 👨‍💻 All of my projects are available at my [portfolio website](https://willgriffin111.github.io/Portfolio-website/)
 
