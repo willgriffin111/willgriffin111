@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on [Loop](https://cccs02.cccs.uwe.ac.uk/login)
 
-- 👨‍💻 All of my projects are available at [https://willgriffin111.github.io/Portfolio-website/](https://willgriffin111.github.io/Portfolio-website/)
+- 👨‍💻 All of my projects are available at my [portfolio website](https://willgriffin111.github.io/Portfolio-website/)
 
 <!-- - 📝 I sometimes write articles on [https://medium.com/@willcfgriffin](https://medium.com/@willcfgriffin) -->
 
