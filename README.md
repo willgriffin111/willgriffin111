@@ -2,7 +2,7 @@
 <h3 align="center">Computer Science graduate with a passion for embedded systems, Systems Engineering and full-stack development.</h3>
 
 
-- 🔭 I’m currently working on [Loop](https://cccs02.cccs.uwe.ac.uk/login)
+<!-- - 🔭 I’m currently working on [Loop](https://cccs02.cccs.uwe.ac.uk/login) -->
 
 - 👨‍💻 All of my projects are available at my [portfolio website](https://willgriffin111.github.io/Portfolio-website/)
 
